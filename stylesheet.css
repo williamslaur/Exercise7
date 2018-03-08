@@ -1,0 +1,60 @@
+body{
+   width: 960px;
+   background-color: gray;
+
+}
+.content{
+    background-color: white;
+}
+.title-header {
+    background-color: #00aaaa;
+    color:white;
+    height:128px;
+    text-shadow: 5px 5px 10px #000000;
+}
+.title-header h1{
+    color:white;
+}
+.title-header h2{
+    color:white;
+}
+.side-bar {
+    width:25%;
+    float: left;
+}
+.article{
+    margin-left: 25%;
+    margin-right: 20px;
+}
+.footer li{
+    display: inline-block;
+    margin: 20px          
+}
+.footer {
+    float: center;
+    text-align: center; 
+}
+h1,h2,h3{
+    color:#aa0000;
+}
+.navigation a{
+    color:#aa0000;
+}
+.navigation h3{
+    color:black;
+}
+.portfolio a{
+    color:#aa0000;
+}
+.portfolio h3{
+    color:black;
+}
+.image-gallery li{
+    display: inline-block;
+    padding-left: 15px;
+}
+em{color:green;
+}
+a:hover {
+    text-decoration: underline;
+}
